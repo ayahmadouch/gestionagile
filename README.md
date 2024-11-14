@@ -1,2 +1,2 @@
 # gestionagile
-Aya Hmadouch-2eme année-grp b
+Aya Hmadouch-2eme année-grp B
